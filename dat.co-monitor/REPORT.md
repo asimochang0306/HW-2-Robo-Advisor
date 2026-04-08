@@ -22,3 +22,4 @@ MSTR's valuation is intrinsically tied to the price of Bitcoin because over 90% 
 - **Data Source:** CoinGecko API (Real-time BTC Price) + Financial Modeling (MSTR NAV calculation)
 - **Real-Time Engine:** Automated polling every 30 seconds to fetch live spot prices and update valuation metrics.
 - **AI Integration:** Gemini 3 Flash for automated market interpretation.
+- **Deployment:** Optimized for Vercel with `vercel.json` for SPA routing.
